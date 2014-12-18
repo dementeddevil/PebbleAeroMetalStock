@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Zen Design Software",
+    "longName": "Aero Metal Stock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "AeroMetalStock",
+    "uuid": "7875a0b2-c8fb-4519-ae25-48114c352801",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
